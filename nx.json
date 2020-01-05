@@ -1,0 +1,33 @@
+{
+  "npmScope": "rapidmais",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "ui-e2e": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
+    },
+    "shared": {
+      "tags": []
+    },
+    "apps-api": {
+      "tags": []
+    },
+    "api-api": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
+    }
+  }
+}
